@@ -1,0 +1,19 @@
+{
+  "name": "electronprueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poyben/ElectronPrueba.git"
+  },
+  "author": "Ruben Gonzalez Sabina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poyben/ElectronPrueba/issues"
+  },
+  "homepage": "https://github.com/poyben/ElectronPrueba#readme"
+}
